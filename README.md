@@ -27,4 +27,4 @@ As you progress, the book introduces tools and automation frameworks purpose-bui
 3. [Ultimate AWS Certified Security Specialty (SCS-CO2) Exam Guide](https://orangeava.com/products/ultimate-aws-certified-security-specialty-scs-co2-exam-guide)
 
 ## Visit Website 
-[www.orangeava.com](https://orangeava.com
+[www.orangeava.com](https://orangeava.com)
